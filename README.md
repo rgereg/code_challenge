@@ -3,8 +3,8 @@
 ## Daily Learning and Practice Checklist
 
 ### Colorado Technical University
-- Fundamentals of Software Design: CS374
-- NoSQL Databases: CS378
+- [ ] Fundamentals of Software Design: CS374 (7/22 to 8/25, 2025)
+- [ ] NoSQL Databases: CS378  (7/22 to 8/25, 2025)
   
 ### Code Wars
 
