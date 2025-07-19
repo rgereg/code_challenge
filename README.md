@@ -13,7 +13,7 @@
 ### Web Developers Bootcamp on Udemy
 
 ### JavaScript
-- [-] Murach JS Book Chapter 1 by July 26, 2025
+- [ ] Murach JS Book Chapter 1 by July 26, 2025
 - [ ] Murach JS Book Chapter 2 by August 2, 2025
 
 ### Data Structures & Algorithms
