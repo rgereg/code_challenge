@@ -1,5 +1,20 @@
-#### Code Camp Challenge Log
+# Code Challenge and Learning Tracking
 
-To be used for playing with and learning git.  
-Where I will push much of my test code and practice projects.
+## Daily Learning and Practice Checklist
+
+### Colorado Technical University
+- Fundamentals of Software Design: CS374
+- NoSQL Databases: CS378
+  
+### Code Wars
+
+### Oden Project
+
+### Web Developers Bootcamp on Udemy
+
+### JavaScript
+
+### Data Structures & Algorithms
+
+
 
