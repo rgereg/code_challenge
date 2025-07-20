@@ -3,14 +3,19 @@
 ## Daily Learning and Practice Checklist
 
 ### Colorado Technical University
-- [ ] Fundamentals of Software Design: CS374 (7/22 to 8/25, 2025)
-- [ ] NoSQL Databases: CS378  (7/22 to 8/25, 2025)
+- [ ] Fundamentals of Software Design: CS374 (July 22 to Auguest 25, 2025)
+  - [ ] 
+- [ ] NoSQL Databases: CS378  (July 22 to Auguest 25, 2025)
   
 ### Code Wars
 
 ### Oden Project
 
 ### Web Developers Bootcamp on Udemy
+
+### HTML & CSS
+- [ ] Murach HTML and CSS book Chapter 1 by July 26.2025
+- [ ] Murach HTML and CSS book Chapter 2 by August 2, 2025
 
 ### JavaScript
 - [ ] Murach JS Book Chapter 1 by July 26, 2025
