@@ -17,7 +17,8 @@ https://gale.udemy.com/home/my-courses/learning/
 ### HTML & CSS
 - [ ] Murach HTML and CSS book Chapter 1 by July 26.2025
 - [ ] Murach HTML and CSS book Chapter 2 by August 2, 2025
-https://learn.shayhowe.com/html-css/
+      
+- https://learn.shayhowe.com/html-css/
 
 ### JavaScript
 - [ ] Murach JS Book Chapter 1 by July 26, 2025
@@ -27,8 +28,8 @@ https://learn.shayhowe.com/html-css/
 
 
 ### Other
-https://react.dev/learn
-https://education.github.com/learner/learn
-https://buildcarolina.org/blog/2024/10/31/a-short-guide-to-technical-interviews-at-the-build-carolina-apprenticeship
+- https://react.dev/learn
+- https://education.github.com/learner/learn
+- https://buildcarolina.org/blog/2024/10/31/a-short-guide-to-technical-interviews-at-the-build-carolina-apprenticeship
 
 
