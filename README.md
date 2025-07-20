@@ -10,8 +10,10 @@
 ### Code Wars
 
 ### Oden Project
+https://www.theodinproject.com/dashboard
 
 ### Web Developers Bootcamp on Udemy
+https://gale.udemy.com/home/my-courses/learning/
 
 ### HTML & CSS
 - [ ] Murach HTML and CSS book Chapter 1 by July 26.2025
