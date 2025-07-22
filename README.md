@@ -15,14 +15,16 @@ https://www.theodinproject.com/dashboard
 https://gale.udemy.com/home/my-courses/learning/
 
 ### HTML & CSS
-- [ ] Murach HTML and CSS book Chapter 1 by July 26.2025
-- [ ] Murach HTML and CSS book Chapter 2 by August 2, 2025
-      
+- [x] Murach HTML and CSS book Chapter 1 by July 26.2025
+- [ ] Murach HTML and CSS book Chapter 2 by July 26.2025
+- [ ] Murach HTML and CSS book Chapter 3 by August 2, 2025
+- [ ] Murach HTML and CSS book Chapter 4 by August 2, 2025
 - https://learn.shayhowe.com/html-css/
 
 ### JavaScript
 - [ ] Murach JS Book Chapter 1 by July 26, 2025
 - [ ] Murach JS Book Chapter 2 by August 2, 2025
+- [ ] Murach JS Book Chapter 3 by August 9, 2025
 
 ### Data Structures & Algorithms
 
